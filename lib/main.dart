@@ -1,5 +1,5 @@
 import 'package:c6bank/core/constants/color_constants.dart';
-import 'package:c6bank/core/features/home/home_page.dart';
+import 'package:c6bank/features/home/home_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
